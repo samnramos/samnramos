@@ -1,5 +1,3 @@
-# samnramos
-
 ## About me 
 
 Hi, I'm Samantha Ramos, my major is computer information systems. My main focus is Data analytics, but im also skilled in HTML/CSS, JavaScript, SQL, Front-end and Back-end. 
@@ -12,10 +10,6 @@ Hi, I'm Samantha Ramos, my major is computer information systems. My main focus 
 
  ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samnramos&hide_progress=true&theme=tokyonight)
 
-## Connect with me
-
-  * LinkedIn: www.linkedin.com/in/samantha-ramos-4426552b7
-
 ## More of my Repos
 
  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=bus-breakdown-and-delays-data&theme=tokyonight)](https://github.com/samnramos/bus-breakdown-and-delays-data)
@@ -24,3 +18,6 @@ Hi, I'm Samantha Ramos, my major is computer information systems. My main focus 
 
  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=Painting-Company&theme=tokyonight)](https://github.com/samnramos/Painting-Company)
 
+## Connect with me
+
+  * LinkedIn: www.linkedin.com/in/samantha-ramos-4426552b7
