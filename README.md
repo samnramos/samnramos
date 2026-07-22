@@ -18,9 +18,9 @@ Hi, I'm Samantha Ramos, my major is computer information systems. My main focus 
 
 ## More of my Repos
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=bus-breakdown-and-delays-data&theme=dark)](https://github.com/samnramos/bus-breakdown-and-delays-data)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=bus-breakdown-and-delays-data&theme=cobalt)](https://github.com/samnramos/bus-breakdown-and-delays-data)
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=Airline-Reservation-System&theme=dark)](https://github.com/samnramos/Airline-Reservation-System)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=Airline-Reservation-System&theme=cobalt)](https://github.com/samnramos/Airline-Reservation-System)
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=Painting-Company&theme=dark)](https://github.com/samnramos/Painting-Company)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=Painting-Company&theme=cobalt)](https://github.com/samnramos/Painting-Company)
 
