@@ -21,7 +21,7 @@ Hi, I'm is Samantha Ramos, my major is computer information systems. My main foc
 * React
 * Node.js
 
-[![samnramos's Most Used Languages](https://vercel.app/api?username=samnramos)](https://github.com/stats-organization/github-stats-extended)
+[![samnramos's GitHub languages](https://github-stats-extended.vercel.app/api?username=samnramos)](https://github.com/stats-organization/github-stats-extended)
 
 ## Connect with me
 
