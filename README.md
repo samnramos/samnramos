@@ -16,3 +16,6 @@ Hi, I'm is Samantha Ramos, my major is computer information systems. My main foc
   * LinkedIn: www.linkedin.com/in/samantha-ramos-4426552b7
 
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=Airline-Reservation-System)](https://github.com/samnramos/Airline-Reservation-System)
+
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=abs1106&repo=Scattergories)](https://github.com/abs1106/Scattergories)
+
