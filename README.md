@@ -8,14 +8,23 @@ Hi, I'm is Samantha Ramos, my major is computer information systems. My main foc
   * Currentlty I'm enrolled in TTPR (Tech Talent Pipeline) where I'm devloping experience in Full-Stack development, Data Analytics and Data Science.
   * My main focus is to become a Data Analytics working with Mercedes-AMG Petronas F1 team, where I can use my data to help drive performance and strategy.
 
+## Languages and Skills
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samnramos)](https://github.com/stats-organization/github-stats-extended)
+
+## Github Stats
+
+[![samnramos's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=samnramos)](https://wakatime.com/@samnramos)
 
 ## Connect with me
 
   * LinkedIn: www.linkedin.com/in/samantha-ramos-4426552b7
 
+## More of my Repos
+
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=bus-breakdown-and-delays-data)](https://github.com/samnramos/bus-breakdown-and-delays-data)
+
 [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=Airline-Reservation-System)](https://github.com/samnramos/Airline-Reservation-System)
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=abs1106&repo=Scattergories)](https://github.com/abs1106/Scattergories)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=Painting-Company)](https://github.com/samnramos/Painting-Company)
 
