@@ -14,7 +14,7 @@ Hi, I'm is Samantha Ramos, my major is computer information systems. My main foc
 
 ## Github Stats
 
-[![samnramos's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=samnramos)](https://wakatime.com/@samnramos)
+[![samnramos's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=samnramos)](https://wakatime.com/@alan)
 
 ## Connect with me
 
