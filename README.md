@@ -8,21 +8,11 @@ Hi, I'm is Samantha Ramos, my major is computer information systems. My main foc
   * Currentlty I'm enrolled in TTPR (Tech Talent Pipeline) where I'm devloping experience in Full-Stack development, Data Analytics and Data Science.
   * My main focus is to become a Data Analytics working with Mercedes-AMG Petronas F1 team, where I can use my data to help drive performance and strategy.
 
-## Skills
-
-## - Languages:
-* Python
-* JavaScript
-* TypeScript
-* Jupyter Lab/Notebook
-
-## - Tools and Frameworks:
-
-* React
-* Node.js
 
 [![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samnramos)](https://github.com/stats-organization/github-stats-extended)
 
 ## Connect with me
 
   * LinkedIn: www.linkedin.com/in/samantha-ramos-4426552b7
+
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=type-trident)](https://github.com/anuraghazra/type-trident)
