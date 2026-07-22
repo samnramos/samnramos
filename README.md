@@ -10,11 +10,7 @@ Hi, I'm is Samantha Ramos, my major is computer information systems. My main foc
 
 ## Languages and Skills
 
-[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samnramos)](https://github.com/stats-organization/github-stats-extended)
-
-## Github Stats
-
-[![samnramos's WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=samnramos)](https://wakatime.com/@alan)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samnramos&hide_progress=true)
 
 ## Connect with me
 
