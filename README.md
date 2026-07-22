@@ -10,7 +10,7 @@ Hi, I'm Samantha Ramos, my major is computer information systems. My main focus 
 
 ## Languages and Skills
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samnramos&hide_progress=true)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=samnramos&hide_progress=true&theme=tokyonight)
 
 ## Connect with me
 
