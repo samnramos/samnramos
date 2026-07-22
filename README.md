@@ -2,7 +2,7 @@
 
 ## About me 
 
-Hi, I'm is Samantha Ramos, my major is computer information systems. My main focus is Data analytics, but im also skilled in HTML/CSS, JavaScript, SQL, Front-end and Back-end. 
+Hi, I'm Samantha Ramos, my major is computer information systems. My main focus is Data analytics, but im also skilled in HTML/CSS, JavaScript, SQL, Front-end and Back-end. 
 
   * I first got intrested in coding with scratch when I was a kid, then as I got older I started getting into programs and clubs like Girls Who Code, and Hack club where i learned how to use JavaScript in highscool. I've taken courses thatt focuses on Python, JavaScript, and SQL in College. 
   * Currentlty I'm enrolled in TTPR (Tech Talent Pipeline) where I'm devloping experience in Full-Stack development, Data Analytics and Data Science.
@@ -18,9 +18,9 @@ Hi, I'm is Samantha Ramos, my major is computer information systems. My main foc
 
 ## More of my Repos
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=bus-breakdown-and-delays-data)](https://github.com/samnramos/bus-breakdown-and-delays-data)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=bus-breakdown-and-delays-data&theme=dark)](https://github.com/samnramos/bus-breakdown-and-delays-data)
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=Airline-Reservation-System)](https://github.com/samnramos/Airline-Reservation-System)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=Airline-Reservation-System&theme=dark)](https://github.com/samnramos/Airline-Reservation-System)
 
-[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=Painting-Company)](https://github.com/samnramos/Painting-Company)
+[![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=Painting-Company&theme=dark)](https://github.com/samnramos/Painting-Company)
 
