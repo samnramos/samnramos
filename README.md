@@ -13,7 +13,3 @@ Hi, I'm Samantha Ramos, my major is computer information systems. My main focus 
  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=Airline-Reservation-System&theme=tokyonight)](https://github.com/samnramos/Airline-Reservation-System)
 
  [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=samnramos&repo=Painting-Company&theme=tokyonight)](https://github.com/samnramos/Painting-Company)
-
-## Connect with me
-
-  * LinkedIn: www.linkedin.com/in/samantha-ramos-4426552b7
