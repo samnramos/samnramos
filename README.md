@@ -2,8 +2,8 @@
 
 Hi, I'm Samantha Ramos, my major is computer information systems. My main focus is Data analytics, but im also skilled in HTML/CSS, JavaScript, SQL, Front-end and Back-end. 
 
-  * Girls Who Code Alumni
-  * Tech Talent Pipeline Resident (TTPR)
+  * Built easy to play games like Pong, Trivia games using JavaScript, coded how to move and function a robot (sphero bot) back in Highschool
+  * Learned front-end and back-end developement, SQL, Data Analytics/Data Sciencd, HTML, CSS, Typescript and JavaScript in Tech Talent Pipeline Resident (TTPR)
 
 ## Languages and Skills
 
